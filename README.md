@@ -1,16 +1,10 @@
-# firebase_messaging_1
+# Start Flutter Push Notification with A Simple Example
 
-A new Flutter application.
+This is the code for the following video:
 
-## Getting Started
+[![Flutter Simple Notification](http://img.youtube.com/vi/gRI5gn4tVVw/0.jpg)](http://www.youtube.com/watch?v=gRI5gn4tVVw "Start Flutter Push Notification with A Simple Example")
 
-This project is a starting point for a Flutter application.
+### If this was helpful, please consider treating me to a cup of coffee.
 
-A few resources to get you started if this is your first Flutter project:
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dknowledge)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
