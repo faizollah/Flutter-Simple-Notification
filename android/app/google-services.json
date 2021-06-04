@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484845657285",
+    "project_id": "fir-msg-a6c35",
+    "storage_bucket": "fir-msg-a6c35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484845657285:android:1072920c7493846e2364ac",
+        "android_client_info": {
+          "package_name": "my.app.firebase_messaging_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484845657285-9pj71ms09oc7v1a5873ch0ruuculce3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqC-I5jMPa6ZVDN_LOSBmtM6R9vhiAIc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484845657285-9pj71ms09oc7v1a5873ch0ruuculce3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
